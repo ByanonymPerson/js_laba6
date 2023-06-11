@@ -42,8 +42,9 @@
   "dependencies": {
     "@types/uuid": "^9.0.1",
     "cross-env": "^7.0.3",
-    "dotenv": "^9.0.0",
+    "dotenv": "^9.0.2",
     "express": "^4.17.1",
+    "typeorm": "^0.3.16",
     "uuid": "^8.3.2",
     "winston": "^3.9.0"
   },
